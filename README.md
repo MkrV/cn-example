@@ -14,5 +14,5 @@ You can find connector settings in `settings.py` file
 
 ## Run
 ```
-pyhton worker.py
+python worker.py
 ```
